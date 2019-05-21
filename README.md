@@ -1,6 +1,6 @@
 # Python CSV-to-Pipe
 
-Python CSV-to-Pipe is a package of two Python scripts for converting a CSV to a pipe delimited file.
+CSV-to-Pipe is a package of two Python scripts for converting a CSV to a pipe delimited file. They allow you to drag-and-drop files on Windows.
 
 ## Installation
 

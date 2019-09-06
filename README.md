@@ -14,9 +14,7 @@ On Windows:
 - A pipe-delimited file `output.txt` will be output to the same folder as the original file.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests and issue reports are welcome.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
